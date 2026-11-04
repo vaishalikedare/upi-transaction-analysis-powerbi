@@ -64,4 +64,4 @@ In Power BI I added an **Age Groups** column from CustomerAge.
 Download `powerbi/UPI_Transaction_Data_Analysis.pbix` and open it in Power BI Desktop (free). Use the slicers and the two bookmark buttons on page 1.
 
 ---
-**Author:** Vaishali Kedare · [LinkedIn]([https://ie.linkedin.com/in/vaishalikedare](https://www.linkedin.com/in/vaishali-kedare-8a8b67215)) · [GitHub](https://github.com/vaishalikedare)
+**Author:** Vaishali Kedare · [LinkedIn](https://www.linkedin.com/in/vaishali-kedare-8a8b67215)) · [GitHub](https://github.com/vaishalikedare)
